@@ -7,12 +7,12 @@ body {
   font-weight: 800;
 }
 
-.small-para {
+.para.small-para {
   font-size: 14px;
   font-weight: 800;
 }
 
-.para:not(.small-para) {
+.para {
   font-size: 22px;
 }
 
